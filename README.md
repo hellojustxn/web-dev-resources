@@ -18,3 +18,10 @@ https://responsively.app/
 
 ## Examples
 https://codemyui.com/
+
+## Snippets
+### Install Brew
+```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
+
+### Install NVM
+```brew install nvm```
