@@ -7,6 +7,8 @@ https://css-tricks.com/
 
 https://30secondsofcode.com/
 
+https://flexboxfroggy.com/
+
 https://frontendmentor.com/
 
 https://shortcuts.design/
