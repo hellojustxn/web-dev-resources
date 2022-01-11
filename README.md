@@ -51,3 +51,12 @@ Node version manager used to install & use specific versions of node in your pro
 
 ### Changing branches
 ```git checkout <branch-name>```
+
+### Branching from an existing branch
+```git branch <new branch> <existing branch>```
+
+## Angular Schematics
+```ng generate @tech4good/angular-schematics:<schematic>``` 
+where (schematic = module, container, component, or entity)
+
+Note: The Angular schematic script cannot create a component when its container is nested in a subfolder. When creating a component within a container that's enclosed by a folder (e.g. activities/draw-it-out/<some dio container>, temporarily move the container into the app folder, run the angular schematics, and move the container back into the original folder.
